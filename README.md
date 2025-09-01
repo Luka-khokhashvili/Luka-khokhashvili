@@ -16,6 +16,24 @@ I'm a passionate full-stack developer, with a strong focus on building responsiv
 
 ---
 
+## 💼 My Current Work
+
+I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative startup. I'm proud to be contributing to their mission by building robust and scalable backend systems.
+
+<div align="center">
+  <a href="https://github.com/TourlifyOrg" target="_blank" rel="noopener noreferrer">
+    <img src="./Tourlify_Logo.jpg" alt="Tourlify Logo" height="50"/>
+  </a>
+</div>
+
+### ✨ My Contributions
+- Actively developing key features using **Node.js** and **Express.js**.
+- Contributing to database design and optimization with **PostgreSQL**.
+- Collaborating on a team to implement new APIs and services.
+
+[🔗 See my contributions at Tourlify](https://github.com/orgs/TourlifyOrg/people)
+
+---
 <div align="center">
   <h2>🚀 Skills & Technologies</h2>
   <br>
