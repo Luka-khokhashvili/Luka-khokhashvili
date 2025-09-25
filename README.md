@@ -67,7 +67,7 @@ I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative
     <img src="https://github-readme-stats.vercel.app/api?username=Luka-khokhashvili&show_icons=true&theme=dark" alt="Luka's GitHub Stats"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka-khokhashvili&theme=dark" alt="Luka's GitHub Streak"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luka-khokhashvili&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 </div>
 
