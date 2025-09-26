@@ -64,12 +64,16 @@ I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative
 ### 📈 My GitHub Activity
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luka-khokhashvili&show_icons=true&theme=dark" alt="Luka's GitHub Stats"/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Luka-khokhashvili&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+    </a>
   </p>
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luka-khokhashvili&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+  <p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luka-khokhashvili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Luka's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-khokhashvili&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
   </p>
 </div>
+
 
 ---
 
