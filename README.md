@@ -31,8 +31,6 @@ I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative
 - Contributing to database design and optimization with **PostgreSQL**.
 - Collaborating on a team to implement new APIs and services.
 
-[🔗 See my contributions at Tourlify](https://github.com/orgs/TourlifyOrg/people)
-
 ---
 <div align="center">
   <h2>🚀 Skills & Technologies</h2>
@@ -56,7 +54,9 @@ I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative
     <h3>Backend & Database</h3>
     <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>&nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>&nbsp;
+    <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>&nbsp;
     <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>&nbsp;
+    <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
   </div>
 </div>
