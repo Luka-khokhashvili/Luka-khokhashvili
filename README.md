@@ -64,8 +64,8 @@ I am currently a **Backend Developer** at **Tourlify**, a dynamic and innovative
 ### 📈 My GitHub Activity
 <div align="center">
   <p align="center">
-    <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=Luka-khokhashvili&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+      <img src="https://streak-stats.demolab.com/?user=Luka-khokhashvili&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
   <p float="left">
