@@ -1,9 +1,3 @@
-<div>
-  <img src="./assets/Banner.png" alt="Banner">
-</div>
-
----
-
 <div align="center">
   <h1 align="center">Hi, I'm Luka! 👋</h1>
   <p align="center">A passionate Full-Stack Developer with a knack for building beautiful and functional applications.</p>
