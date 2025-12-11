@@ -16,6 +16,25 @@ I'm a passionate full-stack developer, with a strong focus on building responsiv
 
 ---
 
+<h2 align="center">👋 Let's Connect!</h2>
+<p align="center">I'm currently open to new opportunities. Reach out if you think I'd be a good fit for your team!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luka-khokhashvili-8179b7285/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://discord.com/users/776446128114630656" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=discord" alt="Discord" />
+  </a>&nbsp;
+  <a href="https://bsky.app/profile/lukakhokhashvili.bsky.social" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=bluesky" alt="Blue Sky"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/luka_khokhashvili14" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram" alt="Instagram"/>
+  </a>&nbsp;
+</p>
+
+---
+
 ## 💼 My Current Work
 
 I am currently a **Backend Team Lead** at **Tourlify**, a dynamic and innovative startup. I'm proud to be contributing to their mission by building robust and scalable backend systems.
@@ -33,33 +52,30 @@ I am currently a **Backend Team Lead** at **Tourlify**, a dynamic and innovative
 
 ---
 <div align="center">
-  <h2>🚀 Skills & Technologies</h2>
-  <br>
-  <p>I love bringing ideas to life using a modern tech stack. Here are some of the technologies I work with:</p>
-  <br>
-
-  <div align="center">
-    <h3>Frontend</h3>
-    <a href="https://angular.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>&nbsp;
-    <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>&nbsp;
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
-    <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>&nbsp;
-    <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /></a>&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>&nbsp;
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>&nbsp;
-  </div>
-  <br>
-  <div align="center">
-    <h3>Backend & Database</h3>
-    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>&nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>&nbsp;
-    <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>&nbsp;
-    <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>&nbsp;
-    <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-  </div>
+  <h2>🚀 Skills & Tech</h2>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=typescript" alt="TypeScript" /></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=nodejs" alt="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=express&theme=dark" alt="Express.js" /></a>&nbsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=nestjs" alt="NestJS" /></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=postgresql" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=mongodb" alt="MongoDB" /></a>&nbsp;
+  <a href="https://angular.io" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=angular" alt="Angular" /></a>&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=react" alt="React" /></a>&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=html5" alt="HTML5" /></a>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=css3" alt="CSS3" /></a>&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=java&reverseBackground=true" alt="Java" /></a>
 </div>
+
+---
+
+<div align="center">
+  
+  ![Random Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+</div>
+
+---
 
 ### 📈 My GitHub Activity
 <div align="center">
@@ -73,20 +89,3 @@ I am currently a **Backend Team Lead** at **Tourlify**, a dynamic and innovative
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-khokhashvili&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
   </p>
 </div>
-
-
----
-
-<h2 align="center">👋 Let's Connect!</h2>
-<p align="center">I'm currently open to new opportunities. Reach out if you think I'd be a good fit for your team!</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/luka-khokhashvili-8179b7285/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/776446128114630656" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:khokhashvililuka@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
