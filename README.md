@@ -85,7 +85,7 @@ I am currently a **Backend Team Lead** at **Tourlify**, a dynamic and innovative
     </a>
   </p>
   <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luka-khokhashvili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Luka's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-khokhashvili&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Luka-khokhashvili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Luka's GitHub Stats"/> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-khokhashvili&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/> -->
   </p>
 </div>
